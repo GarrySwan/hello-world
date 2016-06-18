@@ -1,1 +1,2 @@
-#!/python/goes/here
+#!/usr/bin/python
+print('hello world')
